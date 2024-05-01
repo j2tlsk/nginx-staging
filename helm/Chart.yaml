@@ -1,6 +1,6 @@
 apiVersion: v2
 name: nginx-staging
-description: A Helm chart for the Nginx Test environment
+description: A Helm chart for the Nginx Staging environment
 
 # A chart can be either an 'application' or a 'library' chart.
 #
